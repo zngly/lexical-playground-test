@@ -1,4 +1,4 @@
-# Rsbuild Project
+# Rsbuild Lexical Playground Build Test
 
 ## Setup
 
